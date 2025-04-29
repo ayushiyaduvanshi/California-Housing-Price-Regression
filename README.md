@@ -11,10 +11,10 @@ California Housing Dataset
 **Target:** Median house value.
 
 **Steps Performed**
-    Data Collection
-    Exploratory Data Analysis (EDA)
-    Data Preprocessing
-    Model Building
+    Data Collection,
+    Exploratory Data Analysis (EDA),
+    Data Preprocessing,
+    Model Building,
     Model Evaluation
 
 **Algorithms Tried:** Linear Regression
